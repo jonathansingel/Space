@@ -35,3 +35,9 @@ sysinfo.txt
 *.unitypackage
 Assets/StarSparrow/
 Assets/Asset Packs/
+Assets/ModularSpaceships/
+Assets/SF_Carrier-F5/
+Assets/SF_JumpGate/
+Assets/SF_Carrier-F5.meta
+Assets/ModularSpaceships.meta
+Assets/SF_JumpGate.meta
